@@ -1,0 +1,11 @@
+{
+  "name": "webcomponents",
+  "version": "1.0.0",
+  "description": "botonweb",
+  "main": "index.js",
+  "scripts": {
+    "test": "boton"
+  },
+  "author": "Denis Milan",
+  "license": "ISC"
+}
